@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa817a15-2ed7-47bd-b73d-79d6bab988d8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/css/queries.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/js/jquery.waypoints.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/img/back-customers.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/img/back-customers.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/img/hero.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/queries.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/berlin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/img/berlin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/lisbon-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/img/lisbon-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/london.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/img/london.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/san-francisco.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/img/san-francisco.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,21 +28,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="392" column="13" selection-start-line="392" selection-start-column="13" selection-end-line="392" selection-end-column="13" />
-              <folding>
-                <element signature="e#1500#1507#0" expanded="true" />
-                <element signature="e#5077#5084#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="526">
+              <caret line="255" column="85" selection-start-line="255" selection-start-column="85" selection-end-line="255" selection-end-column="85" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="queries.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/css/queries.css">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+            <state relative-caret-position="642">
+              <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -41,8 +46,17 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="588" column="1" selection-start-line="588" selection-start-column="1" selection-end-line="588" selection-end-column="1" />
+            <state relative-caret-position="891">
+              <caret line="292" column="32" selection-start-line="292" selection-start-column="32" selection-end-line="292" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="queries.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/css/queries.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -53,6 +67,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -66,6 +81,14 @@
       <find>’</find>
       <find>.long</find>
       <find>.works</find>
+      <find>nav</find>
+      <find>feat</find>
+      <find>plans</find>
+      <find>#</find>
+      <find>city</find>
+      <find>stick</find>
+      <find>plan</find>
+      <find>img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -75,8 +98,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/vendors/css/normalize.css" />
+        <option value="$PROJECT_DIR$/vendors/css/animate.css" />
         <option value="$PROJECT_DIR$/resources/css/style.css" />
         <option value="$PROJECT_DIR$/resources/css/queries.css" />
+        <option value="$PROJECT_DIR$/resources/js/script.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -91,9 +116,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="713" />
+    <option name="x" value="817" />
+    <option name="y" value="-19" />
     <option name="width" value="734" />
-    <option name="height" value="457" />
+    <option name="height" value="907" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -101,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,21 +134,49 @@
               <item name="1. Omnifood - SinglePage" type="b2602c69:ProjectViewProjectNode" />
               <item name="1. Omnifood - SinglePage" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="1. Omnifood - SinglePage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1. Omnifood - SinglePage" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1. Omnifood - SinglePage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1. Omnifood - SinglePage" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1. Omnifood - SinglePage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1. Omnifood - SinglePage" type="462c0819:PsiDirectoryNode" />
+              <item name="vendors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1. Omnifood - SinglePage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1. Omnifood - SinglePage" type="462c0819:PsiDirectoryNode" />
+              <item name="vendors" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="PLUGINS&#9;ACTION&#9;WelcomeScreen.Plugins&#10;plugins&#9;ACTION&#9;WelcomeScreen.Plugins" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Abhishek/Desktop/Web Development/Templates/1. Omnifood - SinglePage/resources/css/queries.css&#10;PLUGINS&#9;ACTION&#9;WelcomeScreen.Plugins&#10;plugins&#9;ACTION&#9;WelcomeScreen.Plugins" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Abhishek\Desktop\Web Development\Templates\1. Omnifood - SinglePage\vendors\js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,18 +213,28 @@
       <workItem from="1528971881975" duration="14000" />
       <workItem from="1529002096010" duration="12219000" />
       <workItem from="1529061174414" duration="86000" />
-      <workItem from="1529559987190" duration="11060000" />
+      <workItem from="1529559987190" duration="11430000" />
+      <workItem from="1529592051270" duration="595000" />
+      <workItem from="1529673567477" duration="10500000" />
     </task>
+    <task id="LOCAL-00001" summary="Responsive Done">
+      <created>1529584990489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529584990490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32215000" />
+    <option name="totallyTimeSpent" value="43680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22851002" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2462908" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5014837" side_tool="true" weight="0.3984576" />
@@ -182,7 +245,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32904884" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49851632" weight="0.39921975" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49851632" weight="0.39813083" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -198,15 +261,43 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Responsive Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Responsive Done" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9085">
+          <caret line="395" column="39" selection-start-line="395" selection-start-column="39" selection-end-line="395" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9085">
+          <caret line="395" column="39" selection-start-line="395" selection-start-column="39" selection-end-line="395" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4646">
           <caret line="202" column="48" selection-start-line="202" selection-start-column="48" selection-end-line="202" selection-end-column="48" />
-          <folding>
-            <element signature="e#1500#1507#0" expanded="true" />
-            <element signature="e#5077#5084#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -295,28 +386,41 @@
         <state relative-caret-position="-414" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+    <entry file="file://$PROJECT_DIR$/vendors/js/jquery.waypoints.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendors/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="588" column="1" selection-start-line="588" selection-start-column="1" selection-end-line="588" selection-end-column="1" />
+        <state relative-caret-position="80339">
+          <caret line="3493" column="1" selection-start-line="3493" selection-start-column="1" selection-end-line="3493" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/queries.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+        <state relative-caret-position="412">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="292" column="32" selection-start-line="292" selection-start-column="32" selection-end-line="292" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="392" column="13" selection-start-line="392" selection-start-column="13" selection-end-line="392" selection-end-column="13" />
-          <folding>
-            <element signature="e#1500#1507#0" expanded="true" />
-            <element signature="e#5077#5084#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="526">
+          <caret line="255" column="85" selection-start-line="255" selection-start-column="85" selection-end-line="255" selection-end-column="85" />
         </state>
       </provider>
     </entry>
